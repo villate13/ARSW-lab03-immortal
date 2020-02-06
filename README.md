@@ -21,9 +21,15 @@
 
  
 ### PREGUNTAS:
+
+#### PARTE 1
    1) Razon del consumo?
    - La razon del consumo de la CPU es por producir muy lento y el consumidor consume rapido generando una mayor cantidad de      ejecuciones en un tiempo.
    2) Clase responsable del consumo?
    la clase responsable por el consumo es el CONSUMER ya que es la clase que siempre procesa
-  
-#
+   
+#### PARTE 2
+   1) Valor de puntos de vida?
+   -El valor de vida el cual comienza un inmortal es de 100, la invariante seria N*100
+   3) Funcionamiento de 'pause and check', se cumple la invariante?
+   -Al iniciar la aplicacion y en probar la funcion 'pause and check' vemos que la invariante no se cumple
