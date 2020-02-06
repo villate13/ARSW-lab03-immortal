@@ -13,12 +13,17 @@
 
 ![Consumo eficiente de CPU2](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/ccaptureProceso2Parte1.png)
 
- 2) Haga que ahora el productor produzca muy rápido, y el consumidor consuma lento...
+ 3) Haga que ahora el productor produzca muy rápido, y el consumidor consuma lento...
  
  ![Consumo Produce mas rapido](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/captureProceso3Parte1.png)
 
  ![Consumo Produce mas rapido](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/captureProceso3Parte1.2.png)
 
+# Parte I
+
+  Programa funcionando.
+  
+  ![Consumo Produce mas rapido](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/captureParte2Proceso.png)
  
 ### PREGUNTAS:
 
