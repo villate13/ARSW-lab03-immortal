@@ -19,7 +19,7 @@
 
  ![Consumo Produce mas rapido](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/captureProceso3Parte1.2.png)
 
-# Parte I
+# Parte II
 
   Programa funcionando.
   
