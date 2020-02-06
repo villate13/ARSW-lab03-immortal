@@ -91,6 +91,10 @@ public class ControlFrame extends JFrame {
                 /*
 				 * COMPLETAR
                  */
+                for (Immortal im : immortals) {
+                    im.checkLife(true);
+                } 
+
                 int sum = 0;
                 for (Immortal im : immortals) {
                     sum += im.getHealth();
@@ -111,6 +115,10 @@ public class ControlFrame extends JFrame {
                 /**
                  * IMPLEMENTAR
                  */
+                for (Immortal im : immortals) {
+                    im.checkLife(false);
+                    im.resumen();
+                }
 
             }
         });
@@ -127,6 +135,18 @@ public class ControlFrame extends JFrame {
 
         JButton btnStop = new JButton("STOP");
         btnStop.setForeground(Color.RED);
+
+        btnStop.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                /**
+                 * Implementamos el stop
+                 */
+                immortals.forEach((im) -> {
+                    im.checkStop(true);
+                });
+            }
+        });
+
         toolBar.add(btnStop);
 
         scrollPane = new JScrollPane();
