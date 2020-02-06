@@ -9,7 +9,7 @@
  
  2) Haga los ajustes necesarios para que la solución use más eficientemente la CPU...
  
-![Consumo eficiente de CPU]()
+![Consumo eficiente de CPU](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/captureProceso2Parte1.3.png)
 
 ![Consumo eficiente de CPU2](https://github.com/villate13/ARSW-lab03-immortal/blob/master/img/ccaptureProceso2Parte1.png)
 
